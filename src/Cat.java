@@ -4,7 +4,6 @@ public class Cat {
     private double weight;
     private String color;
 
-
     public String getName() {
         return name;
     }

@@ -31,9 +31,6 @@ public class Main {
         System.out.println("The weight of this Parrot: " +parrot.getWeight());
         System.out.println("---------------------------------------------------------------------");
 
-
-
-
         Cat cat = new Cat();
 
         cat.setName("Mia");
